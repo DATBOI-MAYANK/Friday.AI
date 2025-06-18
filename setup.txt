@@ -1,0 +1,7 @@
+# how to setup the project to work
+ollama pull gemma3:1b
+
+python -m venv venv
+source venv/bin/activate
+pip install requests
+deactivate
