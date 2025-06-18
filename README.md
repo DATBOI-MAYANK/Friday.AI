@@ -1,13 +1,11 @@
 # AI Assistant
 
-A simple AI Assistant project designed to help automate tasks and provide intelligent responses.  
-Built with modern technologies for efficiency and scalability.
+A simple AI Assistant project designed to help automate tasks and while providing the power of LLM's.
 
 ## Features
 
 - Task automation
-- Intelligent response generation
-- Easy integration
+- LLM integration for AI
 
 ## Getting Started
 
