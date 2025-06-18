@@ -3,5 +3,7 @@ pip:
 ollama:
     gemma3:1b
 
+python -m venv venv
 source venv/bin/activate
+pip install requests
 deactivate
