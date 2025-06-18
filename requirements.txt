@@ -1,0 +1,4 @@
+pip:
+    requests
+ollama:
+    gemma3:1b
