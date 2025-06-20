@@ -4,4 +4,5 @@ ollama pull gemma3:1b
 python -m venv venv
 source venv/bin/activate
 pip install requests
+ pip show langchain langchain-core langchain-ollama
 deactivate
